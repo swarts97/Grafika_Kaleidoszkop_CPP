@@ -1,0 +1,17 @@
+﻿  framework.cpp
+  Skeleton.cpp
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(199): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(250): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(269): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\egyetem\4. félév\grafika\hf_2\programs\skeleton\skeleton\skeleton.cpp(279): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  243 of 249 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> D:\Egyetem\4. félév\Grafika\HF_2\Programs\Skeleton\bin\Skeleton.exe

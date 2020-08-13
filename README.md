@@ -1,5 +1,5 @@
 # Grafika_Kaleidoszkop_CPP
 
 * Félév: 4.
-* Nyelv: C++
+* Nyelv: C++ - OpenGL 3
 * **Elsajátított tudás:** Ray-tracing
